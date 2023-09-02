@@ -53,12 +53,11 @@ Step 5: Delete Antonio from dictionary.
 
 ## Görev 6: In the list given below are the names of the students who received degrees in engineering and medicine faculties. While the first three students represent the success order of the engineering faculty, the last three students belong to the medical faculty student rank, respectively. Print the student's degrees specific to the faculty using Enumarate.
 
-![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/31145c12-437f-4427-a365-866c6988a90f)
+<img src="https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/31145c12-437f-4427-a365-866c6988a90f" width="480">
 
 ### Expected output:
 
-![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/758555d7-c267-4a44-9cdd-7bcc7d9e6340)
-
+<img src="https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/758555d7-c267-4a44-9cdd-7bcc7d9e6340" width="480">
 
 ## Task 7: Below are 3 lists. In the lists, there is a course code, credit and quota information, respectively. Print course information using zip.
 
@@ -66,11 +65,11 @@ Step 5: Delete Antonio from dictionary.
 
 ### Expected output:
 
-<img src="https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/ce1bfc91-300f-4c9b-9005-69de226f27b1" width="480">
+<img src="https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/ce1bfc91-300f-4c9b-9005-69de226f27b1" width="700">
 
 ## Task 8: Below are 2 sets. You are expected to define the function that will print the common elements of the two sets if the 1st set includes the 2nd set, and the difference of the 2nd set from the 1st set if it does not.
 
-<img src="https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/12fb10a7-c19c-45f8-8787-b02da5d7dfa6" width="480">
+<img src="https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/12fb10a7-c19c-45f8-8787-b02da5d7dfa6" width="700">
 
 ### Expected output:
 
