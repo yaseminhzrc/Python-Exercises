@@ -62,19 +62,23 @@ Step 5: Delete Antonio from dictionary.
 
 ## Task 7: Below are 3 lists. In the lists, there is a course code, credit and quota information, respectively. Print course information using zip.
 
-![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/d2544cb5-f10b-44c4-9358-2290e9e2638b)
+<img src="https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/d2544cb5-f10b-44c4-9358-2290e9e2638b" width="480">
 
 ### Expected output:
 
-![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/ce1bfc91-300f-4c9b-9005-69de226f27b1)
+<img src="https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/ce1bfc91-300f-4c9b-9005-69de226f27b1" width="480">
 
 ## Task 8: Below are 2 sets. You are expected to define the function that will print the common elements of the two sets if the 1st set includes the 2nd set, and the difference of the 2nd set from the 1st set if it does not.
 
-![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/12fb10a7-c19c-45f8-8787-b02da5d7dfa6)
+<img src="https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/12fb10a7-c19c-45f8-8787-b02da5d7dfa6" width="480">
 
 ### Expected output:
 
-![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/5b95bfb9-fec4-44c9-85c3-d21141e91112)
+<img src="https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/5b95bfb9-fec4-44c9-85c3-d21141e91112" width="480">
+
+
+
+
 
 
 
