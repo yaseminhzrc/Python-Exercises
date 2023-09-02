@@ -11,7 +11,7 @@
 
 ![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/a42fda53-1f8f-4b9c-ad35-bec16291e037)
 
-### Expected output
+### Expected output:
 
 ![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/8e7cab84-f39d-4ece-b462-5d9503520d79)
 
@@ -46,7 +46,7 @@ Step 5: Delete Antonio from dictionary.
 
 ![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/31145c12-437f-4427-a365-866c6988a90f)
 
-### Expected output
+### Expected output:
 
 ![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/758555d7-c267-4a44-9cdd-7bcc7d9e6340)
 
@@ -55,7 +55,7 @@ Step 5: Delete Antonio from dictionary.
 
 ![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/d2544cb5-f10b-44c4-9358-2290e9e2638b)
 
-### Expected output
+### Expected output:
 
 ![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/ce1bfc91-300f-4c9b-9005-69de226f27b1)
 
@@ -63,7 +63,7 @@ Step 5: Delete Antonio from dictionary.
 
 ![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/12fb10a7-c19c-45f8-8787-b02da5d7dfa6)
 
-### Expected output
+### Expected output:
 
 ![image](https://github.com/yaseminhzrc/Python-Exercises/assets/59409886/5b95bfb9-fec4-44c9-85c3-d21141e91112)
 
